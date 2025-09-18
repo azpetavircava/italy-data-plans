@@ -66,3 +66,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾，在意大利享受一个始终在线的完美假期。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Italy SIM 卡购买与激活指南](https://faciylike.github.io/italy-sim-guides)
